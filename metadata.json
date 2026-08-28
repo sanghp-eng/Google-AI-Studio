@@ -1,0 +1,6 @@
+{
+  "name": "VectorRAG Studio",
+  "description": "Production-grade RAG AI platform with vector database integration, semantic search, interactive chunking visualizer, and secure user authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
